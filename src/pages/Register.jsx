@@ -99,7 +99,7 @@ export const Register = () => {
                       name="phone"
                       value={user.phone}
                       onChange={handleInput}
-                      placeholder="phonr number"
+                      placeholder="phone number"
                     />
                   </div>
                   <div>
