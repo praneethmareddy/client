@@ -50,3 +50,6 @@ ul a {
         margin-right: 0;
     }
 }
+*{
+    color-scheme: light  dark;
+}
