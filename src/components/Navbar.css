@@ -4,7 +4,9 @@ body, h1, h2, p, ul, li {
     padding: 0;
 }
 
-
+:root {
+  color-scheme: only dark;
+}
 
 /* Container styles */
 .container {
