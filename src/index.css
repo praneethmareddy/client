@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: Urbanist, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  color-scheme: light dark ;
+  color-scheme: only light dark ;
 }
 
 :root {
@@ -12,7 +12,7 @@
   --dark-color: #242424;
   --helper-color: #99b9ff;
   
-  color-scheme: only dark;
+  color-scheme: only light dark;
 
 }
 
