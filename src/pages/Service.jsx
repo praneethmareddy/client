@@ -53,7 +53,7 @@ export const Service = () => {
 
       const options = {
         key,
-        amount: order.amount*100,
+        amount: order.amount ,
         currency: "INR",
         name: "donate for good",
         description: "Tutorial of RazorPay",
